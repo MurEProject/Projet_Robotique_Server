@@ -1,3 +1,5 @@
+package codeEleve;
+
 import java.util.Date;
 import com.pi4j.io.serial.Serial;
 import com.pi4j.io.serial.SerialDataEvent;

@@ -1,3 +1,5 @@
+package codeEleve;
+
 
 import com.pi4j.io.i2c.*;
 import com.pi4j.io.gpio.*;
